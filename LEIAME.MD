@@ -3,7 +3,7 @@ API PLIXSITE 1.0
 
 1) Autenticação
 
-POST    /authentication         Autenticação do usuário
+POST    /authentication         Autenticação do usuário [usuario, senha]
 
 2) Postos de Gasolina
 
